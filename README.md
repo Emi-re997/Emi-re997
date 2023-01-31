@@ -57,8 +57,8 @@ I have excellent design & coding skills, as well as an ability to convert requir
 <h3> 🤝🏻 Connect with Me </h3>
 
 <p align="center">
-<a href="https://www.linkedin.com/in/emiliano-perez-re-fullstack/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-@francocoll-blue?style=flat&logo=linkedin"></a>
-<a href="mailto:emilianore997@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-francoadrian.coll2012@gmail.com-blue?style=flat&logo=gmail"></a>
+<a href="https://www.linkedin.com/in/emiliano-perez-re-fullstack/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-@emiliano-perez-re-fullstac-blue?style=flat&logo=linkedin"></a>
+<a href="mailto:emilianore997@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-emilianore997@gmail.com@gmail.com-blue?style=flat&logo=gmail"></a>
  <a href="https://www.canva.com/design/DAFFI3V86qM/3NAZK5kUDI4WIQqkvulUWQ/view?  utm_content=DAFFI3V86qM&utm_campaign=designshare&utm_medium=link&utm_source=homepage_design_menu"> <img alt='CV' src="https://img.shields.io/badge/Resume-Espa%C3%B1ol-blue"
  </a>
 <a href="https://www.canva.com/design/DAFFI8iSOuU/Sdzuli6KUNN3bPzF0uQ5Eg/view?utm_content=DAFFI8iSOuU&utm_campaign=designshare&utm_medium=link&utm_source=homepage_design_menu"><img alt='cv' src="https://img.shields.io/badge/Resume-English-blue"></a> 
